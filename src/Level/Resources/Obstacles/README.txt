@@ -1,0 +1,2 @@
+> 0 = OBSTACLE
+< 0 = MASTER
