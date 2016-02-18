@@ -1,0 +1,9 @@
+Inside Story Folder:
+Each Folder has a number for the level name.
+Contents inside each Numbered folder
+	-Contains number of pictures
+	-Can contain as many pictures as you want
+	-StoryTime
+		-its time spent on each picture
+		-must include all pictures or it will default to 3000
+		-each time is in thousanths of seconds

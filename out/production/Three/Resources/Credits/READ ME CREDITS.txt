@@ -1,0 +1,4 @@
+Each line will appear seperately
+Any line that is only a number corrisponds to the Picture
+	-Each picture must be labeled a number to pop up
+Both Pictures and Words are automatically adjusted to center the JFrame
