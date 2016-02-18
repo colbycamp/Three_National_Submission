@@ -1,0 +1,9 @@
+1 = starting x for writing
+2 = starting y for writing
+3 = starting x for time
+4 = starting y for time
+5 = writing size
+6 = clock size
+7 = color for text (0-255,0-255,0-255) 
+*NOTE* in the game color will defined
+as textColor variable.

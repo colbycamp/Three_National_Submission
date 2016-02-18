@@ -1,0 +1,4 @@
+The first entity is always the player.
+His id = 0
+The second played is always the manager.
+They have a default of Identity 1.
